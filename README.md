@@ -19,3 +19,13 @@ an unordered list of other locations around the museum that you would recommend 
 * Ocean Park
 
 [AboutMe](AboutMe.md)
+
+***
+# Tables
+| Name of the city | location to visit | amount of time |
+| ---              | ---               | ---            |
+| Hyderabad        | Birla Mandir      | 2 hours        |
+| Mumbai           | Marine Beach      | 2 hours        |
+| Goa              | Baga Beach        | 3 hours        | 
+| Vizag            | RK Beach          | 2 hours        |
+
