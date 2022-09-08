@@ -11,3 +11,9 @@ Ordered List
 2. Mehidpatnam to srnagar.
 3. srnagar to kukatpally.
 4.kukatpally to salar jung museum.
+
+an unordered list of other locations around the museum that you would recommend for others.
+* Charminar.
+* Golkanda Fort.
+* Birla Mandir.
+* Ocean Park
