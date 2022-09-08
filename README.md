@@ -31,3 +31,8 @@ an unordered list of other locations around the museum that you would recommend 
 | Goa              | Baga Beach        | 3 hours        | 
 | Vizag            | RK Beach          | 2 hours        |
 
+***
+# Pithy Quotes
+> A man is but the product of his thoughts -- *Mahatma Gandhi*
+> You must not lose faith in humanity -- *Mahatma Gandhi*
+
