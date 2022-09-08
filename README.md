@@ -37,3 +37,39 @@ an unordered list of other locations around the museum that you would recommend 
 
 > You must not lose faith in humanity -- *Mahatma Gandhi*
 
+***
+# Code Fencing
+
+[how to sort in svg](https://stackoverflow.com/questions/17915276/sorting-data-bound-to-svg-elements-using-d3-js)
+
+```
+var sortOrder = false;
+
+var sortByPropertyX = function() {
+        sortOrder = !sortOrder;
+        sortCells = function(x, y) {
+    if (sortOrder) {
+        return x.someProperty - y.someProperty;
+    }
+        return y.someProperty - x.someProperty;
+        };
+        svg.selectAll("rects")
+    .sort(sortCells)
+    .attr("x", function(d, i) {return d.x})
+    .attr("y", function(d, i) {return d.y})
+
+        svg.selectAll("text")
+    .sort(sortCells)
+    .text(function(d, i) {
+        return d.someProperty;
+    })
+    .attr("text-anchor", "middle")
+    .attr("x", function(d, i) {
+        return d.x + CELLWIDTH/2;
+            })
+    .attr("y", function(d, i) {
+        return d.y + CELLHEIGHT/2;
+    })
+
+    [sort in svg](https://css-tricks.com/snippets)
+
