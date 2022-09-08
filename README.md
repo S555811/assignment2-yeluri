@@ -34,5 +34,6 @@ an unordered list of other locations around the museum that you would recommend 
 ***
 # Pithy Quotes
 > A man is but the product of his thoughts -- *Mahatma Gandhi*
+
 > You must not lose faith in humanity -- *Mahatma Gandhi*
 
