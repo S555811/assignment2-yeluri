@@ -71,5 +71,5 @@ var sortByPropertyX = function() {
         return d.y + CELLHEIGHT/2;
     })
 
-    [sort in svg](https://css-tricks.com/snippets)
+    [svg](https://css-tricks.com/snippets/svg/)
 
