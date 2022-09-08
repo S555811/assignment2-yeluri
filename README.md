@@ -22,6 +22,8 @@ an unordered list of other locations around the museum that you would recommend 
 
 ***
 # Tables
+ 4 cities that you would recommend someone visit
+
 | Name of the city | location to visit | amount of time |
 | ---              | ---               | ---            |
 | Hyderabad        | Birla Mandir      | 2 hours        |
